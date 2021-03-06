@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=i-Pear&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-Pear)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=i-Pear&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-Pear)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **i-Pear/i-Pear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
