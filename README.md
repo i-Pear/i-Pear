@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Pear"></img><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=i-Pear&show_icons=true"></img>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Pear" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=i-Pear&show_icons=true" />
+  </a>
 </div>  
   
 <!--
