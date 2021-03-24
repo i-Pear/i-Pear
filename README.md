@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Pear" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Pear&hide=css,html" >
   </a>
 </div>
 
