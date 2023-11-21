@@ -1,10 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=i-Pear)
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=i-Pear&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" >
   </a>
-</div>  
+</div>   -->
+
+<picture>
+<img src="/github-metrics.svg" alt="github metrics" 
+style='visibility:visible'>
+</picture>
   
 <!--
 **i-Pear/i-Pear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
