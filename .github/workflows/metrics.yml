@@ -36,5 +36,5 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_repositories: yes
-          plugin_notable_skipped: bminor/musl, sawork-2023/aw01-i-Pear, sawork-2023/aw02-i-Pear, sawork-2023/aw03-i-Pear, sawork-2023/aw04-i-Pear, sawork-2023/aw05-i-Pear, sawork-2023/aw06-i-Pear, sawork-2023/aw07-i-Pear, sawork-2023/aw08-i-Pear, sawork-2023/aw09-i-Pear, unikraft/test-workflows, unikraft/gsoc, unikraft/fork-musl, unikraft/fork-glibc
+          plugin_notable_skipped: bminor/musl, sawork-2023/aw01-i-Pear, sawork-2023/aw02-i-Pear, sawork-2023/aw03-i-Pear, sawork-2023/aw04-i-Pear, sawork-2023/aw05-i-Pear, sawork-2023/aw06-i-Pear, sawork-2023/aw07-i-Pear, sawork-2023/aw08-i-Pear, sawork-2023/aw09-i-Pear, sawork-2023/awx-i-Pear, unikraft/test-workflows, unikraft/gsoc, unikraft/fork-musl, unikraft/fork-glibc, unikraft/dynamic-apps, unikraft/static-pie-apps
           plugin_notable_types: commit, pull_request
